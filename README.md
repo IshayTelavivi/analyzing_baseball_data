@@ -12,6 +12,6 @@ Description of the file list:
 * project_course_3.py - project's code
 * Master_2016.csv - a csv file containing players' general information
 * Batting_2016.csv - a csv file containing players' batting data
-* master1 - master4 - files representing Mater_2016 file but with less data (testing code)
-* batting1 - batting4 - files representing Batting_2016 file but with less data (for code testing)
+* master1.csv - master4.csv - files representing Mater_2016 file but with less data (testing code)
+* batting1.csv - batting4.csv - files representing Batting_2016 file but with less data (for code testing)
 
