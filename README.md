@@ -15,3 +15,6 @@ Description of the file list:
 * master1.csv - master4.csv - files representing Mater_2016 file but with less data (testing code)
 * batting1.csv - batting4.csv - files representing Batting_2016 file but with less data (for code testing)
 
+Comments:
+* The project was not built on github, but was uloaded on a later stage
+* At the time I worked on that project I had not learned numpy / pandas
