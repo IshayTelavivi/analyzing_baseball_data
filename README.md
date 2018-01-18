@@ -7,6 +7,7 @@ The code template was provided by the university, and it includes 5 sections:
 * Part 1: Functions to compute top batting statistics by year - 4 functions
 * Part 2: Functions to compute top batting statistics by career - 2 functions
 * Provided testing code
+
 Description of the file list:
 * project_course_3.py - project's code
 * Master_2016.csv - a csv file containing players' general information
